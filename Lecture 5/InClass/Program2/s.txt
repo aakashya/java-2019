@@ -1,0 +1,1 @@
+Write a java program to create an Book Class with Fields : bookid, book name, department, author, and year of publication, Define an Array of objects to store information about books. Write a menu driven program with the following a) insert Detail of Book b) Display details of a book with a given book id c) Display Details of all Books
